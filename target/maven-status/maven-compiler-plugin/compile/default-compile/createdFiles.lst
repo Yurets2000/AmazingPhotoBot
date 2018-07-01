@@ -1,0 +1,11 @@
+amazingphotobot\Main.class
+amazingphotobot\ThreeD\Point2D.class
+amazingphotobot\MessageHandler.class
+amazingphotobot\AnswerFactory.class
+amazingphotobot\ThreeD\Transformations.class
+amazingphotobot\AmazingPhotoBot.class
+amazingphotobot\PhotoManager.class
+amazingphotobot\MessageHandler$1.class
+amazingphotobot\MessageHandler$NextAction.class
+amazingphotobot\Photo.class
+amazingphotobot\ThreeD\Point3D.class
